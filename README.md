@@ -11,7 +11,7 @@
 - Set up the GitHub repository.
 - Created the `README.md` file.
 - Implemented the cyclic time transformation function.
-- Wrote initial unit tests for the cyclic time transformation function.
+- Wrote initial unit tests for the cyclic time transformation  function.
 
 ## Day 2:
 - Improved unit tests for the cyclic time transformation function, added edge cases, and ensured precision.
